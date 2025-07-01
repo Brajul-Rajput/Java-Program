@@ -13,5 +13,6 @@ public class Program6 {
      System.out.println("The number you entered is : "+num3);
      int num4=(int)num3; // Explicit conversion from double to int
      System.out.println("Then convert into : "+num4);
+     sc.close();
     }
 }
