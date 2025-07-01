@@ -1,6 +1,6 @@
 // Sum of n natural numbers
 package BASIC;
-import java.util.*;
+import java.util.Scanner;
 public class Program4{
     public static void main(String[]args){
         Scanner sc=new Scanner(System.in);
@@ -11,5 +11,7 @@ public class Program4{
         sum+=i;   //sum=sum+i;
     }
     System.out.println("Sum of first "+nums+" natural numbers is "+sum);
+    sc.close();
     }
+    
 }
