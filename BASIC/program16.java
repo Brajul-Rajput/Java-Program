@@ -12,5 +12,6 @@ public class program16 {
             count++;
         }
         System.out.println(count);
+        sc.close();
     }
 }
