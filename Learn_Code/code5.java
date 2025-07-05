@@ -3,7 +3,7 @@ package Learn_Code;
 class insta{
     int x;
     String y;
-   {
+    {
         System.out.println(" first print in it ...");
     }
     
