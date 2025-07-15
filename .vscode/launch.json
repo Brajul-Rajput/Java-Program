@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Arry5",
+            "request": "launch",
+            "mainClass": "Arry.Arry5",
+            "projectName": "Java-Program_87734354"
+        },
+        {
+            "type": "java",
             "name": "main",
             "request": "launch",
             "mainClass": "ELC_BLC.main",
