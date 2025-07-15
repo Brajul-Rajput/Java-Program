@@ -1,0 +1,714 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "oops20",
+            "request": "launch",
+            "mainClass": "OOPS.oops20",
+            "projectName": "Java-Program_87734354"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "apnacollege1",
+            "request": "launch",
+            "mainClass": "Apna_College.apnacollege1",
+            "projectName": "Java-Program_87734354"
+        },
+        {
+            "type": "java",
+            "name": "Arry0",
+            "request": "launch",
+            "mainClass": "Arry.Arry0",
+            "projectName": "Java-Program_87734354"
+        },
+        {
+            "type": "java",
+            "name": "Arry1",
+            "request": "launch",
+            "mainClass": "Arry.Arry1",
+            "projectName": "Java-Program_87734354"
+        },
+        {
+            "type": "java",
+            "name": "Arry2",
+            "request": "launch",
+            "mainClass": "Arry.Arry2",
+            "projectName": "Java-Program_87734354"
+        },
+        {
+            "type": "java",
+            "name": "Arry3",
+            "request": "launch",
+            "mainClass": "Arry.Arry3",
+            "projectName": "Java-Program_87734354"
+        },
+        {
+            "type": "java",
+            "name": "Arry4",
+            "request": "launch",
+            "mainClass": "Arry.Arry4",
+            "projectName": "Java-Program_87734354"
+        },
+        {
+            "type": "java",
+            "name": "Arraylst",
+            "request": "launch",
+            "mainClass": "BASIC.Arraylst",
+            "projectName": "Java-Program_87734354"
+        },
+        {
+            "type": "java",
+            "name": "MaxElement",
+            "request": "launch",
+            "mainClass": "BASIC.MaxElement",
+            "projectName": "Java-Program_87734354"
+        },
+        {
+            "type": "java",
+            "name": "Program1",
+            "request": "launch",
+            "mainClass": "BASIC.Program1",
+            "projectName": "Java-Program_87734354"
+        },
+        {
+            "type": "java",
+            "name": "Program10",
+            "request": "launch",
+            "mainClass": "BASIC.Program10",
+            "projectName": "Java-Program_87734354"
+        },
+        {
+            "type": "java",
+            "name": "Program11",
+            "request": "launch",
+            "mainClass": "BASIC.Program11",
+            "projectName": "Java-Program_87734354"
+        },
+        {
+            "type": "java",
+            "name": "Program2",
+            "request": "launch",
+            "mainClass": "BASIC.Program2",
+            "projectName": "Java-Program_87734354"
+        },
+        {
+            "type": "java",
+            "name": "Program3",
+            "request": "launch",
+            "mainClass": "BASIC.Program3",
+            "projectName": "Java-Program_87734354"
+        },
+        {
+            "type": "java",
+            "name": "Program4",
+            "request": "launch",
+            "mainClass": "BASIC.Program4",
+            "projectName": "Java-Program_87734354"
+        },
+        {
+            "type": "java",
+            "name": "Program5",
+            "request": "launch",
+            "mainClass": "BASIC.Program5",
+            "projectName": "Java-Program_87734354"
+        },
+        {
+            "type": "java",
+            "name": "Program6",
+            "request": "launch",
+            "mainClass": "BASIC.Program6",
+            "projectName": "Java-Program_87734354"
+        },
+        {
+            "type": "java",
+            "name": "Program7",
+            "request": "launch",
+            "mainClass": "BASIC.Program7",
+            "projectName": "Java-Program_87734354"
+        },
+        {
+            "type": "java",
+            "name": "StrnMax2",
+            "request": "launch",
+            "mainClass": "BASIC.StrnMax2",
+            "projectName": "Java-Program_87734354"
+        },
+        {
+            "type": "java",
+            "name": "StrngMax",
+            "request": "launch",
+            "mainClass": "BASIC.StrngMax",
+            "projectName": "Java-Program_87734354"
+        },
+        {
+            "type": "java",
+            "name": "TwoDmax",
+            "request": "launch",
+            "mainClass": "BASIC.TwoDmax",
+            "projectName": "Java-Program_87734354"
+        },
+        {
+            "type": "java",
+            "name": "program12",
+            "request": "launch",
+            "mainClass": "BASIC.program12",
+            "projectName": "Java-Program_87734354"
+        },
+        {
+            "type": "java",
+            "name": "program13",
+            "request": "launch",
+            "mainClass": "BASIC.program13",
+            "projectName": "Java-Program_87734354"
+        },
+        {
+            "type": "java",
+            "name": "program14",
+            "request": "launch",
+            "mainClass": "BASIC.program14",
+            "projectName": "Java-Program_87734354"
+        },
+        {
+            "type": "java",
+            "name": "program15",
+            "request": "launch",
+            "mainClass": "BASIC.program15",
+            "projectName": "Java-Program_87734354"
+        },
+        {
+            "type": "java",
+            "name": "program16",
+            "request": "launch",
+            "mainClass": "BASIC.program16",
+            "projectName": "Java-Program_87734354"
+        },
+        {
+            "type": "java",
+            "name": "program17",
+            "request": "launch",
+            "mainClass": "BASIC.program17",
+            "projectName": "Java-Program_87734354"
+        },
+        {
+            "type": "java",
+            "name": "program18",
+            "request": "launch",
+            "mainClass": "BASIC.program18",
+            "projectName": "Java-Program_87734354"
+        },
+        {
+            "type": "java",
+            "name": "program19",
+            "request": "launch",
+            "mainClass": "BASIC.program19",
+            "projectName": "Java-Program_87734354"
+        },
+        {
+            "type": "java",
+            "name": "program20",
+            "request": "launch",
+            "mainClass": "BASIC.program20",
+            "projectName": "Java-Program_87734354"
+        },
+        {
+            "type": "java",
+            "name": "program21",
+            "request": "launch",
+            "mainClass": "BASIC.program21",
+            "projectName": "Java-Program_87734354"
+        },
+        {
+            "type": "java",
+            "name": "program22",
+            "request": "launch",
+            "mainClass": "BASIC.program22",
+            "projectName": "Java-Program_87734354"
+        },
+        {
+            "type": "java",
+            "name": "Arraylst(1)",
+            "request": "launch",
+            "mainClass": "Collection.Arraylst",
+            "projectName": "Java-Program_87734354"
+        },
+        {
+            "type": "java",
+            "name": "BinarySearch1",
+            "request": "launch",
+            "mainClass": "DSA.BinarySearch1",
+            "projectName": "Java-Program_87734354"
+        },
+        {
+            "type": "java",
+            "name": "BinarySearch2",
+            "request": "launch",
+            "mainClass": "DSA.BinarySearch2",
+            "projectName": "Java-Program_87734354"
+        },
+        {
+            "type": "java",
+            "name": "BinarySearch3",
+            "request": "launch",
+            "mainClass": "DSA.BinarySearch3",
+            "projectName": "Java-Program_87734354"
+        },
+        {
+            "type": "java",
+            "name": "BinarySearch4",
+            "request": "launch",
+            "mainClass": "DSA.BinarySearch4",
+            "projectName": "Java-Program_87734354"
+        },
+        {
+            "type": "java",
+            "name": "BinarySearch5",
+            "request": "launch",
+            "mainClass": "DSA.BinarySearch5",
+            "projectName": "Java-Program_87734354"
+        },
+        {
+            "type": "java",
+            "name": "DSA1",
+            "request": "launch",
+            "mainClass": "DSA450.DSA1",
+            "projectName": "Java-Program_87734354"
+        },
+        {
+            "type": "java",
+            "name": "DSA2",
+            "request": "launch",
+            "mainClass": "DSA450.DSA2",
+            "projectName": "Java-Program_87734354"
+        },
+        {
+            "type": "java",
+            "name": "Hello",
+            "request": "launch",
+            "mainClass": "Hello",
+            "projectName": "Java-Program_87734354"
+        },
+        {
+            "type": "java",
+            "name": "Code1",
+            "request": "launch",
+            "mainClass": "Learn_Code.Code1",
+            "projectName": "Java-Program_87734354"
+        },
+        {
+            "type": "java",
+            "name": "code2",
+            "request": "launch",
+            "mainClass": "Learn_Code.code2",
+            "projectName": "Java-Program_87734354"
+        },
+        {
+            "type": "java",
+            "name": "code3",
+            "request": "launch",
+            "mainClass": "Learn_Code.code3",
+            "projectName": "Java-Program_87734354"
+        },
+        {
+            "type": "java",
+            "name": "code4",
+            "request": "launch",
+            "mainClass": "Learn_Code.code4",
+            "projectName": "Java-Program_87734354"
+        },
+        {
+            "type": "java",
+            "name": "code5",
+            "request": "launch",
+            "mainClass": "Learn_Code.code5",
+            "projectName": "Java-Program_87734354"
+        },
+        {
+            "type": "java",
+            "name": "code6",
+            "request": "launch",
+            "mainClass": "Learn_Code.code6",
+            "projectName": "Java-Program_87734354"
+        },
+        {
+            "type": "java",
+            "name": "code7",
+            "request": "launch",
+            "mainClass": "Learn_Code.code7",
+            "projectName": "Java-Program_87734354"
+        },
+        {
+            "type": "java",
+            "name": "Leetcode34",
+            "request": "launch",
+            "mainClass": "Leetcode.Leetcode34",
+            "projectName": "Java-Program_87734354"
+        },
+        {
+            "type": "java",
+            "name": "code1",
+            "request": "launch",
+            "mainClass": "ONE_DAY.code1",
+            "projectName": "Java-Program_87734354"
+        },
+        {
+            "type": "java",
+            "name": "code2(1)",
+            "request": "launch",
+            "mainClass": "ONE_DAY.code2",
+            "projectName": "Java-Program_87734354"
+        },
+        {
+            "type": "java",
+            "name": "Ecxeption",
+            "request": "launch",
+            "mainClass": "OOPS.Ecxeption",
+            "projectName": "Java-Program_87734354"
+        },
+        {
+            "type": "java",
+            "name": "HierarachicalInter",
+            "request": "launch",
+            "mainClass": "OOPS.HierarachicalInter",
+            "projectName": "Java-Program_87734354"
+        },
+        {
+            "type": "java",
+            "name": "MutliExption",
+            "request": "launch",
+            "mainClass": "OOPS.MutliExption",
+            "projectName": "Java-Program_87734354"
+        },
+        {
+            "type": "java",
+            "name": "Mutlitc",
+            "request": "launch",
+            "mainClass": "OOPS.Mutlitc",
+            "projectName": "Java-Program_87734354"
+        },
+        {
+            "type": "java",
+            "name": "ecepton",
+            "request": "launch",
+            "mainClass": "OOPS.ecepton",
+            "projectName": "Java-Program_87734354"
+        },
+        {
+            "type": "java",
+            "name": "interfce",
+            "request": "launch",
+            "mainClass": "OOPS.interfce",
+            "projectName": "Java-Program_87734354"
+        },
+        {
+            "type": "java",
+            "name": "oops0",
+            "request": "launch",
+            "mainClass": "OOPS.oops0",
+            "projectName": "Java-Program_87734354"
+        },
+        {
+            "type": "java",
+            "name": "oops1",
+            "request": "launch",
+            "mainClass": "OOPS.oops1",
+            "projectName": "Java-Program_87734354"
+        },
+        {
+            "type": "java",
+            "name": "oops10",
+            "request": "launch",
+            "mainClass": "OOPS.oops10",
+            "projectName": "Java-Program_87734354"
+        },
+        {
+            "type": "java",
+            "name": "oops12",
+            "request": "launch",
+            "mainClass": "OOPS.oops12",
+            "projectName": "Java-Program_87734354"
+        },
+        {
+            "type": "java",
+            "name": "oops13",
+            "request": "launch",
+            "mainClass": "OOPS.oops13",
+            "projectName": "Java-Program_87734354"
+        },
+        {
+            "type": "java",
+            "name": "oops2",
+            "request": "launch",
+            "mainClass": "OOPS.oops2",
+            "projectName": "Java-Program_87734354"
+        },
+        {
+            "type": "java",
+            "name": "oops3",
+            "request": "launch",
+            "mainClass": "OOPS.oops3",
+            "projectName": "Java-Program_87734354"
+        },
+        {
+            "type": "java",
+            "name": "oops4",
+            "request": "launch",
+            "mainClass": "OOPS.oops4",
+            "projectName": "Java-Program_87734354"
+        },
+        {
+            "type": "java",
+            "name": "oops5",
+            "request": "launch",
+            "mainClass": "OOPS.oops5",
+            "projectName": "Java-Program_87734354"
+        },
+        {
+            "type": "java",
+            "name": "oops6",
+            "request": "launch",
+            "mainClass": "OOPS.oops6",
+            "projectName": "Java-Program_87734354"
+        },
+        {
+            "type": "java",
+            "name": "oops7",
+            "request": "launch",
+            "mainClass": "OOPS.oops7",
+            "projectName": "Java-Program_87734354"
+        },
+        {
+            "type": "java",
+            "name": "oops8",
+            "request": "launch",
+            "mainClass": "OOPS.oops8",
+            "projectName": "Java-Program_87734354"
+        },
+        {
+            "type": "java",
+            "name": "pg1",
+            "request": "launch",
+            "mainClass": "OOPS.pg1",
+            "projectName": "Java-Program_87734354"
+        },
+        {
+            "type": "java",
+            "name": "p1",
+            "request": "launch",
+            "mainClass": "PROBLEMS.p1",
+            "projectName": "Java-Program_87734354"
+        },
+        {
+            "type": "java",
+            "name": "p10",
+            "request": "launch",
+            "mainClass": "PROBLEMS.p10",
+            "projectName": "Java-Program_87734354"
+        },
+        {
+            "type": "java",
+            "name": "p2",
+            "request": "launch",
+            "mainClass": "PROBLEMS.p2",
+            "projectName": "Java-Program_87734354"
+        },
+        {
+            "type": "java",
+            "name": "p3",
+            "request": "launch",
+            "mainClass": "PROBLEMS.p3",
+            "projectName": "Java-Program_87734354"
+        },
+        {
+            "type": "java",
+            "name": "p5",
+            "request": "launch",
+            "mainClass": "PROBLEMS.p5",
+            "projectName": "Java-Program_87734354"
+        },
+        {
+            "type": "java",
+            "name": "p6",
+            "request": "launch",
+            "mainClass": "PROBLEMS.p6",
+            "projectName": "Java-Program_87734354"
+        },
+        {
+            "type": "java",
+            "name": "p7",
+            "request": "launch",
+            "mainClass": "PROBLEMS.p7",
+            "projectName": "Java-Program_87734354"
+        },
+        {
+            "type": "java",
+            "name": "p8",
+            "request": "launch",
+            "mainClass": "PROBLEMS.p8",
+            "projectName": "Java-Program_87734354"
+        },
+        {
+            "type": "java",
+            "name": "p9",
+            "request": "launch",
+            "mainClass": "PROBLEMS.p9",
+            "projectName": "Java-Program_87734354"
+        },
+        {
+            "type": "java",
+            "name": "p1(1)",
+            "request": "launch",
+            "mainClass": "Pattern.p1",
+            "projectName": "Java-Program_87734354"
+        },
+        {
+            "type": "java",
+            "name": "p2(1)",
+            "request": "launch",
+            "mainClass": "Pattern.p2",
+            "projectName": "Java-Program_87734354"
+        },
+        {
+            "type": "java",
+            "name": "p3(1)",
+            "request": "launch",
+            "mainClass": "Pattern.p3",
+            "projectName": "Java-Program_87734354"
+        },
+        {
+            "type": "java",
+            "name": "p4",
+            "request": "launch",
+            "mainClass": "Pattern.p4",
+            "projectName": "Java-Program_87734354"
+        },
+        {
+            "type": "java",
+            "name": "p5(1)",
+            "request": "launch",
+            "mainClass": "Pattern.p5",
+            "projectName": "Java-Program_87734354"
+        },
+        {
+            "type": "java",
+            "name": "p6(1)",
+            "request": "launch",
+            "mainClass": "Pattern.p6",
+            "projectName": "Java-Program_87734354"
+        },
+        {
+            "type": "java",
+            "name": "p7(1)",
+            "request": "launch",
+            "mainClass": "Pattern.p7",
+            "projectName": "Java-Program_87734354"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Project.src.main.java.org.example.Main",
+            "projectName": "Java-Program_87734354"
+        },
+        {
+            "type": "java",
+            "name": "String8",
+            "request": "launch",
+            "mainClass": "Strg.String8",
+            "projectName": "Java-Program_87734354"
+        },
+        {
+            "type": "java",
+            "name": "Strng10",
+            "request": "launch",
+            "mainClass": "Strg.Strng10",
+            "projectName": "Java-Program_87734354"
+        },
+        {
+            "type": "java",
+            "name": "Strng11",
+            "request": "launch",
+            "mainClass": "Strg.Strng11",
+            "projectName": "Java-Program_87734354"
+        },
+        {
+            "type": "java",
+            "name": "Strng12",
+            "request": "launch",
+            "mainClass": "Strg.Strng12",
+            "projectName": "Java-Program_87734354"
+        },
+        {
+            "type": "java",
+            "name": "Strng2",
+            "request": "launch",
+            "mainClass": "Strg.Strng2",
+            "projectName": "Java-Program_87734354"
+        },
+        {
+            "type": "java",
+            "name": "Strng3",
+            "request": "launch",
+            "mainClass": "Strg.Strng3",
+            "projectName": "Java-Program_87734354"
+        },
+        {
+            "type": "java",
+            "name": "Strng4",
+            "request": "launch",
+            "mainClass": "Strg.Strng4",
+            "projectName": "Java-Program_87734354"
+        },
+        {
+            "type": "java",
+            "name": "Strng5",
+            "request": "launch",
+            "mainClass": "Strg.Strng5",
+            "projectName": "Java-Program_87734354"
+        },
+        {
+            "type": "java",
+            "name": "Strng6",
+            "request": "launch",
+            "mainClass": "Strg.Strng6",
+            "projectName": "Java-Program_87734354"
+        },
+        {
+            "type": "java",
+            "name": "Strng7",
+            "request": "launch",
+            "mainClass": "Strg.Strng7",
+            "projectName": "Java-Program_87734354"
+        },
+        {
+            "type": "java",
+            "name": "Strng9",
+            "request": "launch",
+            "mainClass": "Strg.Strng9",
+            "projectName": "Java-Program_87734354"
+        },
+        {
+            "type": "java",
+            "name": "strg",
+            "request": "launch",
+            "mainClass": "Strg.strg",
+            "projectName": "Java-Program_87734354"
+        },
+        {
+            "type": "java",
+            "name": "Main(1)",
+            "request": "launch",
+            "mainClass": "org.example.Main",
+            "projectName": "Project"
+        }
+    ]
+}
