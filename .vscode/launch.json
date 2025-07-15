@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "ELC_BLC.main",
+            "projectName": "Java-Program_87734354"
+        },
+        {
+            "type": "java",
+            "name": "oops21",
+            "request": "launch",
+            "mainClass": "OOPS.oops21",
+            "projectName": "Java-Program_87734354"
+        },
+        {
+            "type": "java",
             "name": "oops20",
             "request": "launch",
             "mainClass": "OOPS.oops20",
