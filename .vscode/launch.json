@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "linear",
+            "request": "launch",
+            "mainClass": "Arry.linear",
+            "projectName": "Java-Program_87734354"
+        },
+        {
+            "type": "java",
             "name": "Arry5",
             "request": "launch",
             "mainClass": "Arry.Arry5",
