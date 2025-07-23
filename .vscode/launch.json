@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PS4",
+            "request": "launch",
+            "mainClass": "Practise_Sheet.PS4",
+            "projectName": "Java-Program_87734354"
+        },
+        {
+            "type": "java",
+            "name": "PS3",
+            "request": "launch",
+            "mainClass": "Practise_Sheet.PS3",
+            "projectName": "Java-Program_87734354"
+        },
+        {
+            "type": "java",
+            "name": "PS2",
+            "request": "launch",
+            "mainClass": "Practise_Sheet.PS2",
+            "projectName": "Java-Program_87734354"
+        },
+        {
+            "type": "java",
+            "name": "PS1",
+            "request": "launch",
+            "mainClass": "Practise_Sheet.PS1",
+            "projectName": "Java-Program_87734354"
+        },
+        {
+            "type": "java",
             "name": "linear",
             "request": "launch",
             "mainClass": "Arry.linear",
