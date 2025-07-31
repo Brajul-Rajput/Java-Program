@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "binary_search",
+            "request": "launch",
+            "mainClass": "BINARY_SEARCH.binary_search",
+            "projectName": "Java-Program_87734354"
+        },
+        {
+            "type": "java",
+            "name": "Leetcode1",
+            "request": "launch",
+            "mainClass": "WALMART.Leetcode1",
+            "projectName": "Java-Program_87734354"
+        },
+        {
+            "type": "java",
+            "name": "H1",
+            "request": "launch",
+            "mainClass": "HASHMAP.H1",
+            "projectName": "Java-Program_87734354"
+        },
+        {
+            "type": "java",
+            "name": "stackk1",
+            "request": "launch",
+            "mainClass": "STACK.stackk1",
+            "projectName": "Java-Program_87734354"
+        },
+        {
+            "type": "java",
+            "name": "PS5",
+            "request": "launch",
+            "mainClass": "Practise_Sheet.PS5",
+            "projectName": "Java-Program_87734354"
+        },
+        {
+            "type": "java",
             "name": "PS4",
             "request": "launch",
             "mainClass": "Practise_Sheet.PS4",
