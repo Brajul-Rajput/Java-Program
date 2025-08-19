@@ -6,6 +6,83 @@
     "configurations": [
         {
             "type": "java",
+            "name": "array2",
+            "request": "launch",
+            "mainClass": "Special2.array2",
+            "projectName": "Java-Program_87734354"
+        },
+        {
+            "type": "java",
+            "name": "array1",
+            "request": "launch",
+            "mainClass": "Special2.array1",
+            "projectName": "Java-Program_87734354"
+        },
+        {
+            "type": "java",
+            "name": "C",
+            "request": "launch",
+            "mainClass": "Special.C",
+            "projectName": "Java-Program_87734354"
+        },
+        {
+            "type": "java",
+            "name": "B",
+            "request": "launch",
+            "mainClass": "Special.B",
+            "projectName": "Java-Program_87734354"
+        },
+        {
+            "type": "java",
+            "name": "A",
+            "request": "launch",
+            "mainClass": "Special.A",
+            "projectName": "Java-Program_87734354"
+        },
+        {
+            "type": "java",
+            "name": "four_months1",
+            "request": "launch",
+            "mainClass": "WALMART.four_months1",
+            "projectName": "Java-Program_87734354"
+        },
+        {
+            "type": "java",
+            "name": "Str",
+            "request": "launch",
+            "mainClass": "OOPS.Str",
+            "projectName": "Java-Program_87734354"
+        },
+        {
+            "type": "java",
+            "name": "classadd",
+            "request": "launch",
+            "mainClass": "OOPS.classadd",
+            "projectName": "Java-Program_87734354"
+        },
+        {
+            "type": "java",
+            "name": "rebvr",
+            "request": "launch",
+            "mainClass": "WALMART.rebvr",
+            "projectName": "Java-Program_87734354"
+        },
+        {
+            "type": "java",
+            "name": "next",
+            "request": "launch",
+            "mainClass": "WALMART.next",
+            "projectName": "Java-Program_87734354"
+        },
+        {
+            "type": "java",
+            "name": "conce",
+            "request": "launch",
+            "mainClass": "WALMART.conce",
+            "projectName": "Java-Program_87734354"
+        },
+        {
+            "type": "java",
             "name": "w6",
             "request": "launch",
             "mainClass": "WALMART.w6",
